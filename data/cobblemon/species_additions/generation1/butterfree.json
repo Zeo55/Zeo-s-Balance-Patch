@@ -1,0 +1,16 @@
+{
+  "target": "Butterfree",
+  "baseStats": {
+    "hp": 60,
+    "attack": 60,
+    "defence": 55,
+    "special_attack": 140,
+    "special_defence": 80,
+    "speed": 105
+  },
+  "abilities": [
+    "compoundeyes",
+    "tintedlens",
+    "h:swarm"
+  ]
+}
